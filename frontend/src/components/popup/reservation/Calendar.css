@@ -1,0 +1,149 @@
+/*전체 달력 틀*/
+.react-datepicker {
+  width: 100%;                
+  font-family: 'Arial', sans-serif;
+  font-size: 30px;
+  padding: 10px;
+  background-color: #ffffff;   
+  border: none;
+  box-sizing: border-box;
+}
+
+/* 헤더 */
+.react-datepicker__header {
+  position: relative;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 50px !important;
+  font-weight: bold;
+  border-bottom: none;
+}
+.custom-header button {
+  z-index: 10;
+  background: none;
+  border: none;
+  font-size: 1.5rem; /* 화살표 크기 조정 */
+  cursor: pointer;
+  padding: 5px;
+  transition: transform 0.1s ease;
+}
+.custom-header button:active {
+  transform: scale(0.95);
+}
+
+/* 화살표 */
+.react-datepicker__navigation {
+  position: absolute;
+  top: 15%;
+  width: 0;
+  height: 0;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+
+.react-datepicker__navigation--previous {
+  left: 80px;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right: 15px solid #333;
+}
+
+.react-datepicker__navigation--next {
+  right: 80px;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 15px solid #333;
+}
+
+/* 월 이름 */
+.react-datepicker__current-month {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  font-size: 50px;
+}
+
+/* 요일 이름 */
+.react-datepicker__day-names {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  margin: 0;
+  padding: 0;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+  color: #666;
+  gap: 30px;
+}
+
+/* 월  */
+.react-datepicker__month {
+  display: flex;
+  flex-direction: column; 
+  gap: 30px;
+}
+
+/* 주 */
+.react-datepicker__week {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr); 
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  gap: 30px;
+}
+
+/* 날짜  */
+.react-datepicker__day {
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  color: black;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+/* 선택된 날짜 */
+.react-datepicker__day--selected {
+  background-color: #ffb6b9;
+  color: black;
+  font-weight: bold;
+}
+
+/* hover 효과 */
+.react-datepicker__day:hover {
+  background-color: #ffe3e6;
+  color: black;
+  cursor: pointer;
+}
+
+.reservation-info {
+  display: inline-block;
+  vertical-align: top;
+  min-width: 400px; /* 예약 정보 영역 비율 */
+}
+
+.react-datepicker__day--disabled {
+  color: #ccc;          /* 글씨 색을 연하게 */
+  background-color: #ffffff; /* 배경도 살짝 흐리게 */
+  cursor: not-allowed;  /* 마우스 포인터 변경 */
+}
+
+/* hover 효과 제거 */
+.react-datepicker__day--disabled:hover {
+  background-color: #ffffff; 
+}
+
+
+.custom-header-dropdowns select {
+  font-size: 40px; 
+  padding: 5px;
+  margin: 0 5px;
+}
