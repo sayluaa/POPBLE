@@ -9,5 +9,5 @@
 #### 리뷰 게시판
 ![프로젝트 미리보](./images/feature-2.jpg)
 
-####캐러셀
+#### 캐러셀
 ![프로젝트 미리보](./images/feature-3.jpg)
