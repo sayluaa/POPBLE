@@ -33,8 +33,7 @@
 <img width="1650" height="858" alt="image" src="https://github.com/user-attachments/assets/c4ef3db1-079c-46fb-9be5-02aa9fccaf36" />
 
 ####  - 유스케이스
-<img width="1650" height="858" alt="image" src="https://github.com/user-attachments/assets/3d28cd30-735e-4f51-9728-0fb59cbbb576" />
-
+<img width="1062" height="666" alt="image" src="https://github.com/user-attachments/assets/7ec9b9d9-bcb6-4034-8f40-74658de2abc0" />
 
 
 ## 4.담당 파트
