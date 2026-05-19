@@ -38,8 +38,8 @@
 
 ## 4.담당 파트
 #### - 캐러셀
-<img width="712" height="417" alt="image" src="https://github.com/user-attachments/assets/870ff8f8-6506-48de-a2f2-0c9f7dee5c10" />PC, 태블릿
-<img width="278" height="328" alt="image" src="https://github.com/user-attachments/assets/47e1af31-a346-451e-98c9-9a794ea86052" />모바일
+PC, 태블릿<img width="712" height="417" alt="image" src="https://github.com/user-attachments/assets/870ff8f8-6506-48de-a2f2-0c9f7dee5c10" />
+모바일<img width="278" height="328" alt="image" src="https://github.com/user-attachments/assets/47e1af31-a346-451e-98c9-9a794ea86052" />
 
 ##### Front
 ######   - Swiper 기반 캐러셀 UI 구현 및 자동 재생 기능 적용
