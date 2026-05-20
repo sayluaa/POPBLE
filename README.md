@@ -38,7 +38,7 @@
 
 ## 4.담당 파트
 #### - 캐러셀
-PC, 태블릿<img width="712" height="417" alt="image" src="https://github.com/user-attachments/assets/870ff8f8-6506-48de-a2f2-0c9f7dee5c10" />
+<img width="712" height="417" alt="image" src="https://github.com/user-attachments/assets/870ff8f8-6506-48de-a2f2-0c9f7dee5c10" />PC, 태블릿
 <img width="278" height="328" alt="image" src="https://github.com/user-attachments/assets/47e1af31-a346-451e-98c9-9a794ea86052" />모바일
 
 ##### Front
@@ -51,7 +51,9 @@ PC, 태블릿<img width="712" height="417" alt="image" src="https://github.com/u
 ######   - getList 및 shuffle 로직을 활용한 랜덤 데이터 처리 및 전달
 
 #### - 지도
-#####  (이미지 삽입예정)
+<img width="437" height="291" alt="image" src="https://github.com/user-attachments/assets/ede193d4-eae9-4355-a0c9-61d1da3117f1" />
+<img width="442" height="291" alt="image" src="https://github.com/user-attachments/assets/e2fe1476-64bc-4415-9546-eb9e0bc96a82" />
+
 ##### Front
 ######   - 카카오맵 API를 활용한 전체/상세 팝업 지도 화면 구현
 ######   - 클러스터 지도 및 마커 인터랙션 기능 구현
@@ -61,7 +63,12 @@ PC, 태블릿<img width="712" height="417" alt="image" src="https://github.com/u
 ######   - 팝업 위치 데이터 조회 및 지도 데이터 API 연동 구현
 
 #### - 리뷰
-#####  (이미지 삽입예정)
+<img width="265" height="181" alt="image" src="https://github.com/user-attachments/assets/214fa130-6ced-44b0-b102-d35575b873ed" />
+###### 마이페이지 속 사용자의 예약리스트 중 예약시간이 지나면 후기작성 버튼이 활성화
+<img width="383" height="273" alt="image" src="https://github.com/user-attachments/assets/840a3a4c-63c8-435a-9a19-40a07a1f9781" />
+###### 후기작성 버튼을 누른 후 넘어가지는 리뷰등록 페이지
+<img width="383" height="314" alt="image" src="https://github.com/user-attachments/assets/fc56bd02-af97-4b2b-9fab-950325c39c51" />
+###### 팝업 상세페이지 속 리뷰리스트
 ##### Front
 ######   - 리뷰 작성 및 이미지 업로드 기능 구현
 ######   - 사용자별 리뷰 조회 및 리뷰 UI 화면 구현
