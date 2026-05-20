@@ -38,8 +38,12 @@
 
 ## 4.담당 파트
 #### - 캐러셀
-<img width="712" height="417" alt="image" src="https://github.com/user-attachments/assets/870ff8f8-6506-48de-a2f2-0c9f7dee5c10" />PC, 태블릿
-<img width="278" height="328" alt="image" src="https://github.com/user-attachments/assets/47e1af31-a346-451e-98c9-9a794ea86052" />모바일
+<img width="712" height="417" alt="image" src="https://github.com/user-attachments/assets/870ff8f8-6506-48de-a2f2-0c9f7dee5c10" />
+
+PC, 태블릿
+<img width="278" height="328" alt="image" src="https://github.com/user-attachments/assets/47e1af31-a346-451e-98c9-9a794ea86052" />
+
+모바일
 
 ##### Front
 ######   - Swiper 기반 캐러셀 UI 구현 및 자동 재생 기능 적용
@@ -64,10 +68,13 @@
 
 #### - 리뷰
 <img width="265" height="181" alt="image" src="https://github.com/user-attachments/assets/214fa130-6ced-44b0-b102-d35575b873ed" />
+
 ###### 마이페이지 속 사용자의 예약리스트 중 예약시간이 지나면 후기작성 버튼이 활성화
 <img width="383" height="273" alt="image" src="https://github.com/user-attachments/assets/840a3a4c-63c8-435a-9a19-40a07a1f9781" />
+
 ###### 후기작성 버튼을 누른 후 넘어가지는 리뷰등록 페이지
 <img width="383" height="314" alt="image" src="https://github.com/user-attachments/assets/fc56bd02-af97-4b2b-9fab-950325c39c51" />
+
 ###### 팝업 상세페이지 속 리뷰리스트
 ##### Front
 ######   - 리뷰 작성 및 이미지 업로드 기능 구현
