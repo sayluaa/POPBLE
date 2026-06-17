@@ -43,14 +43,8 @@
 ## 4.담당 파트
 #### - 캐러셀
 <img width="712" height="417" alt="image" src="https://github.com/user-attachments/assets/870ff8f8-6506-48de-a2f2-0c9f7dee5c10" />
-
 ###### * PC, 태블릿
 <img width="278" height="328" alt="image" src="https://github.com/user-attachments/assets/47e1af31-a346-451e-98c9-9a794ea86052" />
-
-######   구현 결과 : 구현 결과Swiper 기반 메인 캐러셀을 구현하고 자동 재생, 페이지네이션, 상세페이지 연동 기능을 적용하여 사용자 탐색 경험을 개선
-######   피드백 및 개선 : 고정된 노출 순서로 인한 콘텐츠 편중 문제를 확인
-######                    랜덤 데이터 처리 로직을 적용하여 다양한 팝업이 노출되도록 개선
-
 ###### *모바일
 
 ##### Front
@@ -61,6 +55,11 @@
 ##### Back
 ######   - DB에서 팝업 데이터 조회 API 구현
 ######   - getList 및 shuffle 로직을 활용한 랜덤 데이터 처리 및 전달
+
+######   구현 결과 : 구현 결과Swiper 기반 메인 캐러셀을 구현하고 자동 재생, 페이지네이션, 상세페이지 연동 기능을 적용하여 사용자 탐색 경험을 개선
+######   피드백 및 개선 : 고정된 노출 순서로 인한 콘텐츠 편중 문제를 확인
+######                    랜덤 데이터 처리 로직을 적용하여 다양한 팝업이 노출되도록 개선
+
 
 #### - 지도
 <img width="437" height="291" alt="image" src="https://github.com/user-attachments/assets/ede193d4-eae9-4355-a0c9-61d1da3117f1" />
