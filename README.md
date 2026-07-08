@@ -23,7 +23,6 @@
 * **실시간 예약** : 예약 관련 기능과 정보를 실시간으로 처리 및 확인 가능
 * **정보 소통 활성화** : 게시판 및 후기 기능을 통해 사용자 간 활발한 정보 공유
 
-
 ## 3.진행과정
 ####  - 구조도
 <img width="1650" height="858" alt="image" src="https://github.com/user-attachments/assets/c4ef3db1-079c-46fb-9be5-02aa9fccaf36" />
@@ -31,32 +30,28 @@
 ####  - 유스케이스
 <img width="1062" height="666" alt="image" src="https://github.com/user-attachments/assets/7ec9b9d9-bcb6-4034-8f40-74658de2abc0" />
 
-
 ## 4.담당 파트
-#### - 캐러셀
+### 1) 캐러셀 (Carousel)
 <img width="712" height="417" alt="image" src="https://github.com/user-attachments/assets/870ff8f8-6506-48de-a2f2-0c9f7dee5c10" />
-
-###### * PC, 태블릿
 <img width="278" height="328" alt="image" src="https://github.com/user-attachments/assets/47e1af31-a346-451e-98c9-9a794ea86052" />
+*(좌: PC/태블릿 버전, 우: 모바일 버전)*
 
-###### *모바일
-
-##### Front
-######   - Swiper 기반 캐러셀 UI 구현 및 자동 재생 기능 적용
-######   - 반응형 웹 구현으로 화면 크기에 따른 UI 최적화
-######   - 이미지 클릭 시 상세페이지 이동 기능 구현
-######   - 페이지네이션 및 커스텀 네비게이션 버튼 구현
-##### Back
-######   - DB에서 팝업 데이터 조회 API 구현
-######   - getList 및 shuffle 로직을 활용한 랜덤 데이터 처리 및 전달
-
-
-######   구현 결과 : Swiper 기반 메인 캐러셀을 구현하고 자동 재생, 페이지네이션, 상세페이지 연동 기능을 적용하여 사용자 탐색 경험을 개선
-######   피드백 및 개선 : 고정된 노출 순서로 인한 콘텐츠 편중 문제를 확인
-######                    랜덤 데이터 처리 로직을 적용하여 다양한 팝업이 노출되도록 개선
+**Front**
+  * Swiper 기반 캐러셀 UI 구현 및 자동 재생 기능 적용
+  * 반응형 웹 구현으로 화면 크기에 따른 UI 최적화
+  * 이미지 클릭 시 상세페이지 이동 기능 구현
+  * 페이지네이션 및 커스텀 네비게이션 버튼 구현
+**Back**
+  * DB에서 팝업 데이터 조회 API 구현
+  * getList 및 shuffle 로직을 활용한 랜덤 데이터 처리 및 전달
 
 
-#### - 지도
+> **💡 구현 결과 및 개선**
+> * **결과:** 핵심 UI인 메인 캐러셀을 안정적으로 구현하여 사용자의 첫 탐색 경험을 유의미하게 개선했습니다.
+> * **개선:** 초기 고정된 노출 순서로 인해 특정 콘텐츠만 편중되던 문제를 확인한 후, 백엔드단에서 **랜덤 데이터 처리 로직**을 도입하여 다양한 팝업이 골고루 노출되도록 보완했습니다.
+
+
+### 2) 지도 (Map)
 <img width="437" height="291" alt="image" src="https://github.com/user-attachments/assets/ede193d4-eae9-4355-a0c9-61d1da3117f1" />
 <img width="442" height="291" alt="image" src="https://github.com/user-attachments/assets/e2fe1476-64bc-4415-9546-eb9e0bc96a82" />
 
