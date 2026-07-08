@@ -92,6 +92,19 @@
 
 ## 5. 프로젝트 결과 및 회고
 ### 전체 결과
+<img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/02c68961-3f18-414b-913a-7903d0fe6ba8" />
+
+<img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/be9cb64a-ed8d-45d0-998c-de316f1b6073" />
+
+<img width="1440" height="970" alt="Image" src="https://github.com/user-attachments/assets/85ae2181-a19e-4f72-b5c7-83f99ffc1c25" />
+
+<img width="1440" height="1025" alt="Image" src="https://github.com/user-attachments/assets/caf81cee-26d0-4d52-ab5b-e3a288ebb0aa" />
+
+<img width="1440" height="1025" alt="Image" src="https://github.com/user-attachments/assets/9adae141-2e07-47c3-b3c3-0311b26c02f8" />
+
+<img width="1440" height="1230" alt="Image" src="https://github.com/user-attachments/assets/5ef9abdc-1097-4f26-a706-4f4ff230efa1" />
+
+<img width="1440" height="1025" alt="Image" src="https://github.com/user-attachments/assets/7ec28525-8c61-4b2c-a4f0-ae7513086681" />
 
 ### 프로젝트 성과 (완성도 약 70%)
 1. **통합 플랫폼 구축**: 전국 분산되어 있던 팝업 정보를 한눈에 보고 예약하는 비즈니스 모델을 실제 기능으로 구체화했습니다.
