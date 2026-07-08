@@ -12,10 +12,10 @@
    * 리뷰 (Review)
 5. [프로젝트 결과 및 회고](#5-프로젝트-결과-및-회고)
 
-## 1.프로젝트 목적
+## 1. 프로젝트 목적
 > 흩어져 있는 전국의 팝업스토어 정보를 한곳에서 편리하게 탐색하고 실시간 예약까지 가능한 통합 웹 서비스
 
-## 2.프로젝트 내용
+## 2. 프로젝트 내용
 기존 소수 웹페이지의 한계로 인한 **'팝업 인지 및 예약 효율 저하'** 문제를 발견하고, 이를 보완하기 위해 다음과 같은 핵심 가치를 중심으로 기획되었습니다.
 
 * **편의성** : 복잡한 정보를 통합하여 한 곳에서 효율적으로 해결 가능
@@ -23,14 +23,14 @@
 * **실시간 예약** : 예약 관련 기능과 정보를 실시간으로 처리 및 확인 가능
 * **정보 소통 활성화** : 게시판 및 후기 기능을 통해 사용자 간 활발한 정보 공유
 
-## 3.진행과정
+## 3. 진행 과정
 ####  - 구조도
 <img width="1650" height="858" alt="image" src="https://github.com/user-attachments/assets/c4ef3db1-079c-46fb-9be5-02aa9fccaf36" />
 
 ####  - 유스케이스
 <img width="1062" height="666" alt="image" src="https://github.com/user-attachments/assets/7ec9b9d9-bcb6-4034-8f40-74658de2abc0" />
 
-## 4.담당 파트
+## 4. 담당 파트
 ### 1) 캐러셀 (Carousel)
 <img width="712" height="417" alt="image" src="https://github.com/user-attachments/assets/870ff8f8-6506-48de-a2f2-0c9f7dee5c10" />
 <img width="278" height="328" alt="image" src="https://github.com/user-attachments/assets/47e1af31-a346-451e-98c9-9a794ea86052" />
